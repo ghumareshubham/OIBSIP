@@ -12,8 +12,8 @@ public class Test {
 	private static void gussingNumberGame(int count) {
 		
 		Scanner sc =new Scanner(System.in);
-//		int numFind=1+(int)(100*Math.random());
-		int numFind=50;
+		int numFind=1+(int)(100*Math.random());
+		// int numFind=50;
 		
 //		System.out.println(numFind);
 		
