@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Test {
+public class NumberGuessGame {
 
 	public static void main(String[] args) {
 		int count=1; //count for round
